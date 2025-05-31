@@ -1,6 +1,6 @@
-# GRENE-net Phase 1: Genomic Analysis Repository
+# GRENE-net Phase 1
 
-This repository contains the code and analysis used in the paper "Genomic signals of adaptation to climate change in *Arabidopsis thaliana*" (bioRxiv: https://www.biorxiv.org/content/10.1101/2025.05.28.654549v1).
+This repository contains the code and analysis used in the paper "Rapid adaptation and extinction across climates in synchronized outdoor evolution experiments of *Arabidopsis thaliana*" (bioRxiv: https://www.biorxiv.org/content/10.1101/2025.05.28.654549v1).
 
 ## Abstract 
 
